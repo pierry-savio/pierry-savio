@@ -67,8 +67,8 @@
 
 <br>
 
-<a href="https://wa.me/5511986294195" target="_blank">
-<img src="https://img.shields.io/badge/whatsapp:  +55 (11) 986294195-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<a href="https://wa.me/5511974838207" target="_blank">
+<img src="https://img.shields.io/badge/whatsapp:  +55 (11) 974838207-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 
 <br>
@@ -89,4 +89,4 @@
 
 <br>
 
-Last Edited on: 12/03/2026
+Last Edited on: 27/05/2026
